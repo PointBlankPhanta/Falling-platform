@@ -1,0 +1,1 @@
+for the code to work, make the falling platform rigidbody to kinematic, set the interpolate to interpolate, freeze the position and rotation, and check "Used By Effector" for rigidbody. Also, make sure you have the player movement first, and give your player sprite the player tag. Then you're good to go.
